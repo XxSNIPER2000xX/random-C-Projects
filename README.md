@@ -1,2 +1,2 @@
 # random-C-Projects
-random simple projects
+random simple projects done in C
