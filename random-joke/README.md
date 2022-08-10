@@ -14,4 +14,5 @@ gcc joker.c -o joker
 ## References 🧐
 
 Example jokes taken from here: https://www.countryliving.com/life/a27452412/best-dad-jokes/
+
 building string array: https://www.youtube.com/watch?v=4_2BEgOFd0E
