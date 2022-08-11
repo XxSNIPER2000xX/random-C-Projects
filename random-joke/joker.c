@@ -80,5 +80,5 @@ int randomNumGen(int line_count) {
 }
 
 void printLine(int random_num, char** strings) {
-    printf("%s", strings[random_num]);
+    printf("%s\n", strings[random_num]);
 }
