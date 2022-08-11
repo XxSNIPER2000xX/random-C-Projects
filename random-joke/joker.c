@@ -28,6 +28,11 @@ int main(void) {
     
     printLine(random_num, strings);
     
+    // free the memory
+    for (int i = 0; i < line_count; i++)
+        free(strings[i]);
+    
+    free(strings);
     fclose(fp);
     
     return EXIT_SUCCESS;
