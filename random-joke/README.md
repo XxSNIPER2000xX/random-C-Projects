@@ -5,7 +5,7 @@ Tells a random joke from a file, can expand the file to tell more jokes!
 ## Build Instructions 🧱
 
 ```
-git clone https://github.com/XxSNIPER2000xX/random-C-Projects/random-joke
+git clone https://github.com/XxSNIPER2000xX/random-C-Projects
 cd random-joke
 gcc joker.c -o joker
 ./joker
